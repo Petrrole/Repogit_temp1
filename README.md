@@ -19,10 +19,6 @@ I cook great:
 
 ![](Images/redtree.png)
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-![certification.](Images/Coursera%20NWMV7BWX77AR.pdf){width=65%}
-
 ![](Images/80245ea6aa.jpg)
 
 ![jpeg capo.](Images/171_statuetka_shakhmatisty.jpeg)

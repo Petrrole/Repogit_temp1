@@ -22,3 +22,5 @@ I cook great:
 ![](Images/80245ea6aa.jpg)
 
 ![jpeg capo.](Images/171_statuetka_shakhmatisty.jpeg)
+
+![pandas png.](Images/dip_python_pandas.png)

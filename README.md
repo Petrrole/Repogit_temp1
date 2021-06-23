@@ -24,3 +24,5 @@ I cook great:
 ![jpeg capo.](Images/171_statuetka_shakhmatisty.jpeg)
 
 ![pandas png.](Images/dip_python_pandas.png)
+
+Here is how you make [a link](https://sberuniversity.ru/learning/programmes/open-programmes/).

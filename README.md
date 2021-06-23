@@ -24,3 +24,5 @@ I cook great:
 ![This is an certificationx.](https://github.com/Petrrole/Repogit_temp1/blob/master/Images/Coursera%20NWMV7BWX77AR.pdf)
 
 ![](Images/80245ea6aa.jpg)
+
+![jpeg capo.](Images/171_statuetka_shakhmatisty.jpeg)
